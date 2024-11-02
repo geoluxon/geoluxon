@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geoluxon
 - 👀 I’m interested in C++ and Python
 - 🌱 I’m currently learning the Basics of C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on, nothing as of rn
 - 📫 How to reach me, don't
 - 😄 Pronouns: He/Him/One day hacker
 - ⚡ Fun fact: I am him
