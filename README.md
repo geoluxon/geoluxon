@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on, nothing as of rn
 - 📫 How to reach me, don't
 - 😄 Pronouns: He/Him/One day hacker
-- ⚡ Fun fact: I am him
+- ⚡ Fun fact: I'M STILL STANDING
 
 <!---
 geoluxon/geoluxon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
